@@ -26,11 +26,11 @@
 
 <h2>🧰 Componentes e Ferramentas</h2>  
 
-* Delphi 10.4
-  * DMVC Framework ( Servidor e Client )
-  * Componente ACBr ( Emissão da Nota )  
-  * FORTES Report ( Emissão de Relatório )
-* Redis ( Gerenciar Cache no Servidor ) 
-* SQLite ( Database Mobile )
+* Delphi 10.4 [exemplo](https://exemplo.com/).
+  * DMVC Framework ( Servidor e Client ) [exemplo](https://exemplo.com/).
+  * Componente ACBr ( Emissão da Nota )   [exemplo](https://exemplo.com/).
+  * FORTES Report ( Emissão de Relatório ) [exemplo](https://exemplo.com/).
+* Redis ( Gerenciar Cache no Servidor )  [exemplo](https://exemplo.com/).
+* [SQLite ( Database Mobile )](https://exemplo.com/).
   
 
