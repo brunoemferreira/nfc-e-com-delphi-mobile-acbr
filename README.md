@@ -23,7 +23,7 @@
 * **Criando a Aplicação Mobile parte 2**
   * Finalização da aplicação mobile 
 
-</hr>
+<hr/>
   
 <h2>Componentes e Ferramentas</h2>  
 
