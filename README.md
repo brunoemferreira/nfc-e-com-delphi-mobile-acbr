@@ -7,6 +7,7 @@
   * Fundamentos do ACBr
   * Fundamentos de API´s REST
   * Utilização do DMVC Framework para construção de API´s RESTFull
+  * Instalação do REDIS
   * Início do desenvolvimento da API para emissão de notas de consumidor
 * **Servidor REST**
   * Dúvidas gerais sobre emissão de nota fiscal de consumidor eletrônica
