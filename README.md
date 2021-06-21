@@ -22,6 +22,7 @@
   * Utilização de métodos assíncronos
 * **Criando a Aplicação Mobile parte 2**
   * Finalização da aplicação mobile 
+
 </hr>
   
 <h2>Componentes e Ferramentas</h2>  
