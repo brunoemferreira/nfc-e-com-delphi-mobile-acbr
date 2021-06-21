@@ -26,11 +26,11 @@
 
 <h2>🧰 Componentes e Ferramentas</h2>  
 
-* Delphi 10.4 [exemplo](https://exemplo.com/).
-  * DMVC Framework ( Servidor e Client ) [exemplo](https://exemplo.com/).
-  * Componente ACBr ( Emissão da Nota )   [exemplo](https://exemplo.com/).
-  * FORTES Report ( Emissão de Relatório ) [exemplo](https://exemplo.com/).
-* Redis ( Gerenciar Cache no Servidor )  [exemplo](https://exemplo.com/).
-* [SQLite ( Database Mobile )](https://exemplo.com/).
+* [Delphi 10.4](https://www.embarcadero.com/br/)
+  * [DMVC Framework ( Servidor e Client )](https://github.com/danieleteti/delphimvcframework/)
+  * [Componente ACBr ( Emissão da Nota )](https://acbr.sourceforge.io/ACBrMonitor/ComousaroSVN.html)
+  * [FORTES Report ( Emissão de Relatório )](https://github.com/fortesinformatica/fortesreport-ce)
+* [Redis ( Gerenciar Cache no Servidor )](https://redis.io/)
+* [SQLite ( Database Mobile )](https://www.sqlite.org/index.html)
   
 
