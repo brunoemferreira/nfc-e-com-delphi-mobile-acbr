@@ -30,6 +30,7 @@
 * DMVC Framework ( Servidor e Client )
 * Redis ( Gerenciar Cache no Servidor ) 
 * Componente ACBr ( Emissão da Nota )  
+* FORTES Report ( Emissão de Relatório )
 * SQLite ( Database Mobile )
   
 
