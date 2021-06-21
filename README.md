@@ -1,7 +1,7 @@
 <h1>Curso NFC-e com Delphi Mobile e ACBr</h1>
   
 
-<h2>Agenda do Curso</h2>  
+<h2>📅 Agenda do Curso</h2>  
 
 * **Fundamentos**
   * Fundamentos do ACBr
@@ -24,13 +24,13 @@
 * **Criando a Aplicação Mobile parte 2**
   * Finalização da aplicação mobile 
 
-<h2>Componentes e Ferramentas</h2>  
+<h2>🧰 Componentes e Ferramentas</h2>  
 
 * Delphi 10.4
-* DMVC Framework ( Servidor e Client )
+  * DMVC Framework ( Servidor e Client )
+  * Componente ACBr ( Emissão da Nota )  
+  * FORTES Report ( Emissão de Relatório )
 * Redis ( Gerenciar Cache no Servidor ) 
-* Componente ACBr ( Emissão da Nota )  
-* FORTES Report ( Emissão de Relatório )
 * SQLite ( Database Mobile )
   
 
