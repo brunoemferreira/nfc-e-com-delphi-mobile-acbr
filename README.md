@@ -29,5 +29,6 @@
 * DMVC Framework ( Servidor e Client )
 * Redis ( Gerenciar Cache no Servidor ) 
 * Componente ACBr ( Emissão da Nota )  
+* SQLite ( Database Mobile )
   
 
