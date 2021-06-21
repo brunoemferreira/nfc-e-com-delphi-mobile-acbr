@@ -14,18 +14,21 @@
   * Métodos para emissão de nota fiscal de consumidor eletrônica
   * Construção da API RESTFull
 * Criando a Aplicação Mobile parte 1
-  * 
+  * Fundamentos da programação mobile usando Delphi
+  * Construção de Layouts
+  * Consumo e utilização de API´s RESTFull
+  * Uso de dados em bases de dados locais no mobile
+  * Atualização de dados locais
+  * Utilização de métodos assincronos
 * Criando a Aplicação Mobile parte 2
   * Finalização da aplicação mobile 
 
-
-  
-  
+</br>
   
 <h2>Componentes e Ferramentas</h2>  
 
 * Delphi 10.4
-* DMVC ( Servidor e Client )
+* DMVC Framework ( Servidor e Client )
 * Redis ( Gerenciar Cache no Servidor ) 
 * Componente ACBr ( Emissáo da Nota )  
   
