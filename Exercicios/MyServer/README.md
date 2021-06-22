@@ -1,4 +1,4 @@
-<h1>Projeto : MyServer</h1>
+<h1>MyServer</h1>
 <h2>Sobre o Projeto</h2>
 <p> Esse exercício é para criar um servidor do tipo console, com uma API REST CRUD( Create / Read / Update / Delete ) de clientes, conectando a uma base de dados Firebird, utilizando configuração de pool de conexões</p>
 
