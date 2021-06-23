@@ -27,10 +27,12 @@
 <h2>🧰 Componentes e Ferramentas</h2>  
 
 * [Delphi 10.4](https://www.embarcadero.com/br/)
-  * [DMVC Framework ( Servidor e Client )](https://github.com/danieleteti/delphimvcframework/)
+  * [DMVC Framework ( Framework RESTful )](https://github.com/danieleteti/delphimvcframework/)
+  * [Delphi Redis Client](https://github.com/danieleteti/delphiredisclient)
   * [Componente ACBr ( Emissão da Nota )](https://acbr.sourceforge.io/ACBrMonitor/ComousaroSVN.html)
   * [FORTES Report ( Emissão de Relatório )](https://github.com/fortesinformatica/fortesreport-ce)
-* [Redis ( Gerenciar Cache no Servidor )](https://redis.io/)
+* [Firebird 3.0 ( SGBD )](https://firebirdsql.org/)
+* [Redis ( Gerenciar Cache no Servidor, dados em memória )](https://redis.io/)
 * [SQLite ( Database Mobile )](https://www.sqlite.org/index.html)
 * [Postman( Teste de API's )](https://www.postman.com/)  
 * [IBExpert ( IDE Banco de Dados Firebird )](https://www.ibexpert.net/ibe/)
