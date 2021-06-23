@@ -40,7 +40,7 @@
 * []()
 * []()
 
-<h3>Instalações Componentes e Ferramentas</h3>  
+<h3>⚙️ Instalações Componentes e Ferramentas</h3>  
 
 * Delphi REDIS Client : Para instalar esse componente é necessário acessar o [repositório no github](https://github.com/danieleteti/delphiredisclient), clonar o mesmo e no delphi adicionar a pasta **Sources** em Tools > Options > Language > Delphi > Library > **Library Path** e o componente ja está pronto para ser usado. 
 
