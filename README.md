@@ -25,7 +25,7 @@
 * **Criando a Aplicação Mobile parte 2**
   * Finalização da aplicação mobile 
 
-<h2>🧰 Componentes e Ferramentas</h2>  
+<h2>🧰 Bibliotecas e Ferramentas</h2>  
 
 * [Delphi 10.4](https://www.embarcadero.com/br/)
   * [DMVC Framework ( Framework RESTful )](https://github.com/danieleteti/delphimvcframework/)
@@ -40,7 +40,7 @@
 * []()
 * []()
 
-<h3>⚙️ Instalações Componentes e Ferramentas</h3>  
+<h3>⚙️ Instalações de Bibliotecas e Ferramentas</h3>  
 
 * **Delphi REDIS Client** : Para instalar esse componente é necessário acessar o [repositório no github](https://github.com/danieleteti/delphiredisclient), clonar o mesmo e no delphi adicionar a pasta **Sources** em Tools > Options > Language > Delphi > Library > **Library Path** e o componente ja está pronto para ser usado. 
 
