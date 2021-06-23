@@ -15,7 +15,8 @@ uses
   UMyController in 'UMyController.pas',
   UMyWebModule in 'UMyWebModule.pas' {MyWebModule: TWebModule},
   UPoolConnection in 'UPoolConnection.pas',
-  ProdutosClass in 'ProdutosClass.pas';
+  ProdutosClass in 'ProdutosClass.pas',
+  ProdutosService in 'ProdutosService.pas';
 
 {$R *.res}
 
