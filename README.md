@@ -7,8 +7,9 @@
   * Fundamentos do ACBr
   * Fundamentos de API´s REST
   * Utilização do DMVC Framework para construção de API´s RESTFull
-  * Instalação do REDIS
   * Início do desenvolvimento da API para emissão de notas de consumidor
+  * Instalação do REDIS
+  * Utilização do CACHE com REDIS
 * **Servidor REST**
   * Dúvidas gerais sobre emissão de nota fiscal de consumidor eletrônica
   * Problemas mais comuns na nota fiscal de consumidor eletrônica 
@@ -38,4 +39,8 @@
 * [IBExpert ( IDE Banco de Dados Firebird )](https://www.ibexpert.net/ibe/)
 * []()
 * []()
+
+<h3>Instalações Componentes e Ferramentas</h3>  
+
+* Delphi REDIS Client : Para instalar esse componente é necessário acessar o [repositório no github](https://github.com/danieleteti/delphiredisclient), clonar o mesmo e no delphi adicionar a pasta **Sources** em Tools > Options > Language > Delphi > Library > **Library Path** e o componente ja está pronto para ser usado. 
 
