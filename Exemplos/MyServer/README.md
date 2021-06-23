@@ -7,3 +7,4 @@
 * [Delphi 10.4 ( IDE de Desenvolvimento )]()  
   * [DMVC Framework ( Framework MVC REST )]() 
 * [Firebird ( Banco de Dados )]()   
+* [Redis ( Banco de Dados )]()   
